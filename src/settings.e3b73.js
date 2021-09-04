@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","player"],collisionMatrix:[[false,true],[true,true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/PlayScene.fire",orientation:"",jsList:[],bundleVers:{internal:"45e63",main:"03083"}};
